@@ -1,4 +1,4 @@
-![git_previev](https://user-images.githubusercontent.com/58694421/118956425-4331b300-b968-11eb-966f-959688470586.png)
+![git_preview](https://user-images.githubusercontent.com/58694421/118959342-e84d8b00-b96a-11eb-8699-db129ccd9074.png)
 
 ### Hi there 👋
 
