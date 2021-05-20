@@ -1,3 +1,5 @@
+![git_previev](https://user-images.githubusercontent.com/58694421/118956425-4331b300-b968-11eb-966f-959688470586.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently writing tasks for the university
